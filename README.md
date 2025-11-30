@@ -56,6 +56,3 @@ Features:
 - Simple balance tracking
 
 ---
-
-## 📂 Recommended File Structure
-
